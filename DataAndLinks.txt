@@ -1,0 +1,3 @@
+npm install mongodb
+
+mongodb+srv://harshjaiswallpu:<password>@mycluster.ybasdqa.mongodb.net/?retryWrites=true&w=majority&appName=MyCluster
